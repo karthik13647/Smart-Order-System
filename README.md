@@ -1,11 +1,10 @@
-# Restaurant_management_system
+# Smart Order System
 
 ## Project Video Link : https://youtu.be/cpPmBlvtdrs
 
 ## Requirement
     
-[get-pip.zip](https://github.com/7Har/Restaurant_management_system/files/6250009/get-pip.zip)
-
+[get-pip.zip] download
 
     python get-pip.py
 
@@ -31,11 +30,7 @@
 
     username:"user" password:"user"
     
-## For  Employee login:
+## For  Admin login:
 
     username:"admin" password:"123456789"
     
-## For  Admin login:
-
-    username:"dkp" password:"admin@123"
-
