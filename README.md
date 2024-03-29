@@ -1,7 +1,5 @@
 # Smart Order System
 
-## Project Video Link : https://youtu.be/cpPmBlvtdrs
-
 ## Requirement
     
 [get-pip.zip] download
